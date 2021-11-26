@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632389693 source:e:\latian pemrograman\c++\latian17(stack with adt)\main.cpp
+	<iostream>
+	"stack1.h"
+
+1632388368 e:\latian pemrograman\c++\latian17(stack with adt)\stack1.h
+	<stdio.h>
+	<stdlib.h>
+
+1632386688 source:e:\latian pemrograman\c++\latian17(stack with adt)\stack.cpp
+	"stack1.h"
+

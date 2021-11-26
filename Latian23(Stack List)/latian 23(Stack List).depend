@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637632247 source:e:\latian pemrograman\c++\latian 23(stack list)\stacklink.cpp
+	"stacklink.h"
+
+1637632788 e:\latian pemrograman\c++\latian 23(stack list)\stacklink.h
+	<stdio.h>
+	<stdlib.h>
+
+1637632944 source:e:\latian pemrograman\c++\latian 23(stack list)\main.cpp
+	"stacklink.h"
+	<iostream>
+

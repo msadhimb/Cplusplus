@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634604508 source:e:\latian pemrograman\c++\project22(singlelinklist2)\singlelinklist.cpp
+	"singlelinklist.h"
+
+1634604466 e:\latian pemrograman\c++\project22(singlelinklist2)\singlelinklist.h
+	<stdio.h>
+	<stdlib.h>
+

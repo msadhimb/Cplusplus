@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631521728 source:e:\latian pemrograman\c++\latian7 (acak dadu)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

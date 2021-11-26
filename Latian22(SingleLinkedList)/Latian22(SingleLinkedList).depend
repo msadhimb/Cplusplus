@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635257113 source:e:\latian pemrograman\c++\latian22(singlelinkedlist)\simplelist.cpp
+	"simpleList.h"
+
+1634867751 e:\latian pemrograman\c++\latian22(singlelinkedlist)\simplelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1634872604 source:e:\latian pemrograman\c++\latian22(singlelinkedlist)\main.cpp
+	<iostream>
+	"simpleList.h"
+

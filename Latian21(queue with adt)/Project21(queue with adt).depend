@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:e:\latian pemrograman\c++\project21(queue with adt)\main.cpp
+	<iostream>
+
+1633396884 source:e:\latian pemrograman\c++\project21(queue with adt)\queue.cpp
+	<iostream>
+	"queue.h"
+
+1633396883 e:\latian pemrograman\c++\project21(queue with adt)\queue.h
+	"stdlib.h"
+

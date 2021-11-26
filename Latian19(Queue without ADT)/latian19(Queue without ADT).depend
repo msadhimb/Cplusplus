@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1632969126 source:e:\latian pemrograman\c++\latian19(queue without adt)\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1633404724 source:e:\latian pemrograman\c++\latian19(queue without adt)\alternatif 1.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1633406288 source:e:\latian pemrograman\c++\latian19(queue without adt)\alternatif 2.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1633406430 source:e:\latian pemrograman\c++\latian19(queue without adt)\alternatif 3.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

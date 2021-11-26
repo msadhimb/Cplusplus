@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632736323 source:e:\latian pemrograman\c++\latian18(queue with array)\main.cpp
+	<iostream>
+	<unistd.h>
+
